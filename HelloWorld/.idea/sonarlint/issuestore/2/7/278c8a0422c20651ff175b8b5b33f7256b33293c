@@ -1,0 +1,24 @@
+
+^
+java:S4973."<Strings and Boxed types should be compared using "equals()".(á³™—ıÿÿÿÿ8â÷ÒÑù0
+f
+java:S2583)"DChange this condition so that it does not always evaluate to "false"(şàë‚ıÿÿÿÿ8ŒÄÑù0
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ŞĞÊçøÿÿÿÿ8ßâÂÑù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›êŒÉ8áâÂÑù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšşÿÿÿÿ8ââÂÑù0
+I
+java:S1125"'Remove the unnecessary boolean literal.(ŞĞÊçøÿÿÿÿ8ââÂÑù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ñÂ¯ıÿÿÿÿ8ââÂÑù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ©İ¢8ââÂÑù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³¥“¢8ãâÂÑù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÂ‹—ûÿÿÿÿ8ãâÂÑù0
+]	java:S125"<This block of commented-out lines of code should be removed.(–‚Çòüÿÿÿÿ8ãâÂÑù0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(å—•8ãâÂÑù0
+]	java:S125$"<This block of commented-out lines of code should be removed.(” ÑÓÿÿÿÿÿ8Ö´ÄÑù0
+I
+java:S1125)"'Remove the unnecessary boolean literal.(şàë‚ıÿÿÿÿ8—ÄÑù0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÁûäØ8˜ÄÑù0
+J
+java:S1125."(Remove the unnecessary boolean literals.(á³™—ıÿÿÿÿ8ù÷ÒÑù0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(çÈ¦üüÿÿÿÿ8å«ÕÑù0

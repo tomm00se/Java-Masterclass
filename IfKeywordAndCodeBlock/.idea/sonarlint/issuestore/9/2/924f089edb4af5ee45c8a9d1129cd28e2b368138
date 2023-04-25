@@ -1,0 +1,14 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "bonus".(‰É×¼úÿÿÿÿ8ò­›û0
+_
+java:S1854"BRemove this useless assignment to local variable "levelCompleted".(Òüôà8£Ò¦›û0
+O
+java:S1481"-Remove this unused "gameOver" local variable.(ÍÊşúÿÿÿÿ8¤Ò¦›û0
+P
+java:S1481"3Remove this unused "levelCompleted" local variable.(Òüôà8¥Ò¦›û0
+L
+java:S1481"*Remove this unused "bonus" local variable.(‰É×¼úÿÿÿÿ8ò­›û0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(öóêùÿÿÿÿ8¥Ò¦›û0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µã¾ãıÿÿÿÿ8”’¨›û0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¿ÖŠ8àá¨›û0
